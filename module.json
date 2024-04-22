@@ -8,7 +8,7 @@
     "minimum": 11,
     "verified": "11"
   },
-  "scripts": [
+  "esmodules": [
     "./npcchatter.js"
   ],
   "packs": [
